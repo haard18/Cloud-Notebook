@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+i{
+  cursor: pointer;
+}
 .App-link {
   color: #61dafb;
 }
